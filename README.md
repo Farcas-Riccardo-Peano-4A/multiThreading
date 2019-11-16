@@ -1,6 +1,8 @@
 # multiThreading
-Abbiamo creato un progetto contenente due classi che stampano "Hello" e "Hi" 10 volte per ciascuno. L'output stampa le parole in ordine casuale ad ogni esecuzione poichè è il sistema operativo che in base al protocollo li esegue prima.
+## Esercizio 1 
+Abbiamo creato un progetto contenente due classi che stampano **"Hello"** e "Hi" 10 volte per ciascuno. L'output stampa le parole in ordine casuale ad ogni esecuzione poichè è il sistema operativo che in base al protocollo li esegue prima.
 Esecuzione 1:
+
 Hi
 Hi
 Hi
